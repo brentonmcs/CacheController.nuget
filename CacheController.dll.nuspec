@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>CacheController.dll</id>
-    <version>1.0.0</version>
+    <version>1.4.0</version>
     <authors>Brenton McSweyn</authors>
     <owners>Brenton McSweyn</owners>
     <projectUrl>https://github.com/brentonmcs/CacheController</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Memory Cache Util for storing objects for a predetermined time</description>
-    <releaseNotes>Inital Release</releaseNotes>
+    <releaseNotes>Fixed up Code Analysis warnings</releaseNotes>
     <copyright>Copyright 2013</copyright>
-    <tags>MmeoryCache Caching</tags>
+    <tags>MemoryCache Caching</tags>
     <dependencies>
     </dependencies>
   </metadata>
